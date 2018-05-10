@@ -1,5 +1,5 @@
 
-public class SquareAndDiamond
+public class SquareNDiamond
 {
 
     public static void main(String[] args)
